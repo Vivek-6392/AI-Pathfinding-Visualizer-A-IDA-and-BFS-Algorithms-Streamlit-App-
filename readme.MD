@@ -72,17 +72,17 @@ Guarantees shortest path in unweighted grids but can be slow for large maps.
 ```bash
 git clone https://github.com/<your-username>/AI-Pathfinding-Visualizer.git
 cd AI-Pathfinding-Visualizer
-2️⃣ Install dependencies
-bash
-Copy code
+```
+### 2️⃣ Install dependencies
+```bash
 pip install streamlit numpy pillow
-3️⃣ Run the Streamlit app
-bash
-Copy code
+```
+### 3️⃣ Run the Streamlit app
+```bash
 streamlit run app.py
-(Replace app.py with your main file name, e.g., ai_pathfinder_app.py)
+```
 
-🧮 Example Output
+### 🧮 Example Output
 Algorithm: A*
 
 Nodes explored: 130
@@ -93,7 +93,7 @@ Execution time: 0.05s
 
 Each algorithm shows different exploration behavior and efficiency.
 
-🧠 Educational Use
+### 🧠 Educational Use
 This project is perfect for:
 
 Understanding AI search algorithms
@@ -102,7 +102,7 @@ Comparing performance and efficiency
 
 Visual learning of pathfinding concepts
 
-💡 Future Enhancements
+### 💡 Future Enhancements
 Add Dijkstra’s algorithm
 
 Add Greedy Best-First Search
@@ -113,16 +113,8 @@ Add diagonal movement support
 
 Dark/light mode toggle
 
-🧑‍💻 Author
+### 🧑‍💻 Author
 Vivek Yadav
 📚 Mini Project – Artificial Intelligence
 Built using Python, Streamlit, and NumPy
-
-🪪 License
-This project is licensed under the MIT License – you’re free to use, modify, and distribute it for educational purposes.
-
-🌟 Acknowledgements
-Inspired by visualizers from:
-
-Pathfinding Visualizer (Clement Mihailescu)
 
