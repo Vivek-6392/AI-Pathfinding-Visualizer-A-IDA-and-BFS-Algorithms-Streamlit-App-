@@ -115,6 +115,7 @@ Dark/light mode toggle
 
 ### 🧑‍💻 Author
 Vivek Yadav
-📚 Mini Project – Artificial Intelligence
+
+### 📚 Mini Project – Artificial Intelligence
 Built using Python, Streamlit, and NumPy
 
